@@ -22,7 +22,7 @@ const Main = () => {
           ? <>
             <div className="greet">
               <p><span>Hai Manusia</span></p>
-              <p>Ada yang bisa ane bantu ga ni?</p>
+              <p>Welcome to raihanGPT</p>
             </div>
 
             <div className="cards">
