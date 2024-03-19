@@ -11,7 +11,7 @@ const Main = () => {
     <div className='main'>
 
       <div className="nav">
-        <p>RaihanGPT</p>
+        <p>Kelompok 1 Human & Computer Interaction</p>
         <img src={assets.user_icon} alt="" />
       </div>
 
@@ -21,8 +21,8 @@ const Main = () => {
         {!showResult
           ? <>
             <div className="greet">
-              <p><span>Hai Manusia</span></p>
-              <p>Welcome to raihanGPT</p>
+              <p><span>Hai LF01</span></p>
+              <p>Welcome to Kelompok 1 ChatBot</p>
             </div>
 
             <div className="cards">
@@ -81,7 +81,7 @@ const Main = () => {
 
           </div>
           <p className="bottom-info">
-            Jawaban Ane Mungkin kagak 100% bener, jadi jangan langsung percaya, mending ente cek lagi dah...
+            Jawabannya Mungkin tidak 100% bener, jadi jangan langsung percaya, mending cek cek lagi ya...
           </p>
         </div>
 
