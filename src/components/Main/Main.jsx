@@ -11,7 +11,7 @@ const Main = () => {
     <div className='main'>
 
       <div className="nav">
-        <p>RaihanGPT</p>
+        <p>Kelompok 1 Human & Computer Interaction</p>
         <img src={assets.user_icon} alt="" />
       </div>
 
@@ -21,8 +21,8 @@ const Main = () => {
         {!showResult
           ? <>
             <div className="greet">
-              <p><span>Hai Manusia</span></p>
-              <p>Welcome to raihanGPT</p>
+              <p><span>Hai LF01</span></p>
+              <p>Kelompok 1</p>
             </div>
 
             <div className="cards">
